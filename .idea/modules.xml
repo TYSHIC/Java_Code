@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/02_data_type/02_data_type.iml" filepath="$PROJECT_DIR$/02_data_type/02_data_type.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_variable/03_variable.iml" filepath="$PROJECT_DIR$/03_variable/03_variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_overflow/04_overflow.iml" filepath="$PROJECT_DIR$/04_overflow/04_overflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_cast/05_cast.iml" filepath="$PROJECT_DIR$/05_cast/05_cast.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
