@@ -12,6 +12,7 @@ public class Main1 {
                 System.out.println("想念你的外套");
                 break;
             case "怎麼忍心怪你犯了錯":
+            case "怎麼忍心讓你受折磨":
                 System.out.println("是我給你自由過了火");
                 break;
             case "我願變成童話裡你愛的那個天使":
