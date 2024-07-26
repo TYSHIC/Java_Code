@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/07_if_else/07_if_else.iml" filepath="$PROJECT_DIR$/07_if_else/07_if_else.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_switch/08_switch.iml" filepath="$PROJECT_DIR$/08_switch/08_switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/09_for/09_for.iml" filepath="$PROJECT_DIR$/09_for/09_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_while/10_while.iml" filepath="$PROJECT_DIR$/10_while/10_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_continue/11_continue.iml" filepath="$PROJECT_DIR$/11_continue/11_continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_break/12_break.iml" filepath="$PROJECT_DIR$/12_break/12_break.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
