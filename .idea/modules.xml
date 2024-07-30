@@ -15,7 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/11_continue/11_continue.iml" filepath="$PROJECT_DIR$/11_continue/11_continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_break/12_break.iml" filepath="$PROJECT_DIR$/12_break/12_break.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_method/13_method.iml" filepath="$PROJECT_DIR$/13_method/13_method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/14_early_return/14_early_return.iml" filepath="$PROJECT_DIR$/14_early_return/14_early_return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_clean/14_clean.iml" filepath="$PROJECT_DIR$/14_clean/14_clean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_global_variable/15_global_variable.iml" filepath="$PROJECT_DIR$/15_global_variable/15_global_variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
