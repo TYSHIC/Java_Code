@@ -1,16 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        Person person1 = new Person(60, "任嫌齊");
+        Person person1 = new Person(35, "蔡秦", true);
         person1.printInfo();
-        Person person2 = new Person(-65, "李宗聖");
-        person2.printInfo();
-        Person person3 = new Person(30, "蔡秦", true);
-        person3.printInfo();
+        person1.setAge(-35);
+        System.out.println(person1.getAge());
     }
 }
 
 class Person {
-    int age = 0;
+    private int age = 0;
     String name;
     boolean pregnant = false;
 
@@ -32,5 +30,9 @@ class Person {
     void setAge(int age) {
         if (age < 0) age = 0;
         this.age = age;
+    }
+
+    int getAge() {
+        return age;
     }
 }

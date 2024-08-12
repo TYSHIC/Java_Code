@@ -23,7 +23,11 @@
       <module fileurl="file://$PROJECT_DIR$/16_class/16_class_03/16_class_03.iml" filepath="$PROJECT_DIR$/16_class/16_class_03/16_class_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_class/16_class_04/16_class_04.iml" filepath="$PROJECT_DIR$/16_class/16_class_04/16_class_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_class/16_class_05/16_class_05.iml" filepath="$PROJECT_DIR$/16_class/16_class_05/16_class_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_class/16_class_06/16_class_06.iml" filepath="$PROJECT_DIR$/16_class/16_class_06/16_class_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/17_string/17_string.iml" filepath="$PROJECT_DIR$/17_string/17_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends.iml" filepath="$PROJECT_DIR$/18_extends/18_extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends_01/18_extends_01.iml" filepath="$PROJECT_DIR$/18_extends/18_extends_01/18_extends_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends_02/18_extends_02.iml" filepath="$PROJECT_DIR$/18_extends/18_extends_02/18_extends_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
