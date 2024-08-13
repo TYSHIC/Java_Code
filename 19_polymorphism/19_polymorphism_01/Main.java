@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        Person person = new Person(35, "蔡秦");
-        person.printInfo();
-        Worker worker = new Worker(25, "周節倫", "歌手");
-        worker.printInfo();
-        Student student = new Student(16, "白氨", 10);
-        student.printInfo();
+        Person person1 = new Person(35, "蔡秦");
+        person1.printInfo();
+        Person person2 = new Worker(25, "周節倫", "歌手");
+        person2.printInfo();
+        Person person3 = new Student(16, "白氨", 10);
+        person3.printInfo();
     }
 }
 
@@ -27,7 +27,7 @@ class Person {
         this.age = age;
     }
 
-    public int getAge() {
+    int getAge() {
         return age;
     }
 }

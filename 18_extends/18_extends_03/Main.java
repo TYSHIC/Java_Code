@@ -1,11 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        Person person = new Person(35, "蔡秦");
+        Person person = new Person(10, "蔡秦");
         person.printInfo();
-        Worker worker = new Worker(25, "周節倫", "歌手");
+        Worker worker = new Worker(10, "周節倫", "歌手");
         worker.printInfo();
-        Student student = new Student(16, "白氨", 10);
-        student.printInfo();
     }
 }
 
@@ -27,7 +25,7 @@ class Person {
         this.age = age;
     }
 
-    public int getAge() {
+    int getAge() {
         return age;
     }
 }
@@ -46,24 +44,13 @@ class Worker extends Person {
 
     @Override
     void printInfo() {
-        System.out.printf("姓名：%s 年齡：%d 職業：%s %n", name, getAge(), occupation);
-    }
-}
-
-class Student extends Person {
-    int grade;
-
-    Student(int age, String name) {
-        super(age, name);
-    }
-
-    Student(int age, String name, int grade) {
-        this(age, name);
-        this.grade = grade;
+        System.out.printf("姓名：%s 年齡：%d 職業：%s %n",
+                name, getAge(), occupation);
     }
 
     @Override
-    void printInfo() {
-        System.out.printf("姓名：%s 年齡：%d 年級：%d %n", name, getAge(), grade);
+    void setAge(int age) {
+        if (age < 15) age = 15;
+        super.setAge(age);
     }
 }
