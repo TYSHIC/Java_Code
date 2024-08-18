@@ -1,4 +1,4 @@
-package org.tyic.util;
+package me.tyic.main.util;
 
 public abstract class Util {
     public static boolean isPrime(int number) {

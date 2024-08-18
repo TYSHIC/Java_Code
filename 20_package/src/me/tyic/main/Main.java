@@ -1,18 +1,16 @@
-package org.tyic;
+package me.tyic.main;
 
-import org.tyic.util.Util;
+import me.tyic.main.util.Util;
 
 import java.util.Scanner;
 
 public class Main {
     static void printIsPrime(int number) {
         if (Util.isPrime(number)) {
-            System.out.printf("%d is prime%n",
-                    number);
+            System.out.printf("%d is prime%n", number);
             return;
         }
-        System.out.printf("%d is not prime%n",
-                number);
+        System.out.printf("%d is not prime%n", number);
     }
 
     public static void main(String[] args) {
@@ -21,8 +19,6 @@ public class Main {
         int power = scanner.nextInt();
         printIsPrime(base);
         printIsPrime(power);
-        System.out.printf("%d ^ %d = %d", base,
-                power, Util.pow(base, power));
+        System.out.printf("%d ^ %d = %d", base, power, Util.pow(base, power));
     }
 }
-
