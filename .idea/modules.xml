@@ -31,10 +31,14 @@
       <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends_03/18_extends_03.iml" filepath="$PROJECT_DIR$/18_extends/18_extends_03/18_extends_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends_04/18_extends_04.iml" filepath="$PROJECT_DIR$/18_extends/18_extends_04/18_extends_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends_05/18_extends_05.iml" filepath="$PROJECT_DIR$/18_extends/18_extends_05/18_extends_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends_06/18_extends_06.iml" filepath="$PROJECT_DIR$/18_extends/18_extends_06/18_extends_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/19_polymorphism/19_polymorphism.iml" filepath="$PROJECT_DIR$/19_polymorphism/19_polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/19_polymorphism/19_polymorphism_01/19_polymorphism_01.iml" filepath="$PROJECT_DIR$/19_polymorphism/19_polymorphism_01/19_polymorphism_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/19_polymorphism/19_polymorphism_02/19_polymorphism_02.iml" filepath="$PROJECT_DIR$/19_polymorphism/19_polymorphism_02/19_polymorphism_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/20_package/20_package.iml" filepath="$PROJECT_DIR$/20_package/20_package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_package/20_package_01/20_package_01.iml" filepath="$PROJECT_DIR$/20_package/20_package_01/20_package_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_package/20_package_02/20_package_02.iml" filepath="$PROJECT_DIR$/20_package/20_package_02/20_package_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_wrapper_class/21_wrapper_class.iml" filepath="$PROJECT_DIR$/21_wrapper_class/21_wrapper_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
