@@ -40,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/20_package/20_package_02/20_package_02.iml" filepath="$PROJECT_DIR$/20_package/20_package_02/20_package_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/21_wrapper_class/21_wrapper_class.iml" filepath="$PROJECT_DIR$/21_wrapper_class/21_wrapper_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/22_array/22_array.iml" filepath="$PROJECT_DIR$/22_array/22_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_array_utils/23_array_utils.iml" filepath="$PROJECT_DIR$/23_array_utils/23_array_utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
