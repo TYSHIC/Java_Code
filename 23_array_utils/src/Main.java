@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main1 {
+public class Main {
     public static void main(String[] args) {
         int[] arr1 = {1, 4, 7, 2, 5, 8, 3, 6, 9};
         int[] arr2 = Arrays.copyOf(arr1, arr1.length);
