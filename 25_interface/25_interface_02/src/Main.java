@@ -1,28 +1,15 @@
 public class Main {
     public static void main(String[] args) {
-        FlyingFish flyingFish = new FlyingFish();
-        flyingFish.fly();
-        flyingFish.swim();
-        Aircraft aircraft1 = new Airplane();
-        aircraft1.fly();
-        Aircraft aircraft2 = new Helicopter();
-        aircraft2.fly();
+        CanFly[] canFlies =
+                {new Helicopter(), new Airplane(), new FlyingFish()};
+        for (CanFly canFly : canFlies) {
+            canFly.fly();
+        }
     }
 }
 
 interface CanFly {
     void fly();
-}
-
-interface CanSwim {
-    void swim();
-}
-
-class Fish implements CanSwim {
-    @Override
-    public void swim() {
-        System.out.println("魚兒魚兒水中遊");
-    }
 }
 
 abstract class Aircraft implements CanFly {
@@ -42,7 +29,7 @@ class Helicopter extends Aircraft {
     }
 }
 
-class FlyingFish extends Fish implements CanFly {
+class FlyingFish implements CanFly {
     @Override
     public void fly() {
         System.out.println("飛魚用魚翅飛");

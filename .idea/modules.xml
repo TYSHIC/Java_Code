@@ -45,6 +45,10 @@
       <module fileurl="file://$PROJECT_DIR$/24_enums/24_enums.iml" filepath="$PROJECT_DIR$/24_enums/24_enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface.iml" filepath="$PROJECT_DIR$/25_interface/25_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface_01/25_interface_01.iml" filepath="$PROJECT_DIR$/25_interface/25_interface_01/25_interface_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface_02/25_interface_02.iml" filepath="$PROJECT_DIR$/25_interface/25_interface_02/25_interface_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface_03/25_interface_03.iml" filepath="$PROJECT_DIR$/25_interface/25_interface_03/25_interface_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface_04/25_interface_04.iml" filepath="$PROJECT_DIR$/25_interface/25_interface_04/25_interface_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface_05/25_interface_05.iml" filepath="$PROJECT_DIR$/25_interface/25_interface_05/25_interface_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
