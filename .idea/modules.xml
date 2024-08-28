@@ -24,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/16_class/16_class_04/16_class_04.iml" filepath="$PROJECT_DIR$/16_class/16_class_04/16_class_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_class/16_class_05/16_class_05.iml" filepath="$PROJECT_DIR$/16_class/16_class_05/16_class_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_class/16_class_06/16_class_06.iml" filepath="$PROJECT_DIR$/16_class/16_class_06/16_class_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_class/16_class_07/16_class_07.iml" filepath="$PROJECT_DIR$/16_class/16_class_07/16_class_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_class/16_class_08/16_class_08.iml" filepath="$PROJECT_DIR$/16_class/16_class_08/16_class_08.iml" />
       <module fileurl="file://$PROJECT_DIR$/17_string/17_string.iml" filepath="$PROJECT_DIR$/17_string/17_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends.iml" filepath="$PROJECT_DIR$/18_extends/18_extends.iml" />
       <module fileurl="file://$PROJECT_DIR$/18_extends/18_extends_01/18_extends_01.iml" filepath="$PROJECT_DIR$/18_extends/18_extends_01/18_extends_01.iml" />
@@ -42,7 +44,9 @@
       <module fileurl="file://$PROJECT_DIR$/21_wrapper_class/21_wrapper_class.iml" filepath="$PROJECT_DIR$/21_wrapper_class/21_wrapper_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/22_array/22_array.iml" filepath="$PROJECT_DIR$/22_array/22_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/23_random/23_random.iml" filepath="$PROJECT_DIR$/23_random/23_random.iml" />
-      <module fileurl="file://$PROJECT_DIR$/24_enums/24_enums.iml" filepath="$PROJECT_DIR$/24_enums/24_enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_special_class/24_enum/24_enum.iml" filepath="$PROJECT_DIR$/24_special_class/24_enum/24_enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_special_class/24_record/24_record.iml" filepath="$PROJECT_DIR$/24_special_class/24_record/24_record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_special_class/24_special_class.iml" filepath="$PROJECT_DIR$/24_special_class/24_special_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface.iml" filepath="$PROJECT_DIR$/25_interface/25_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface_01/25_interface_01.iml" filepath="$PROJECT_DIR$/25_interface/25_interface_01/25_interface_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/25_interface/25_interface_02/25_interface_02.iml" filepath="$PROJECT_DIR$/25_interface/25_interface_02/25_interface_02.iml" />
@@ -57,6 +61,10 @@
       <module fileurl="file://$PROJECT_DIR$/26_generic/26_generic_04/26_generic_04.iml" filepath="$PROJECT_DIR$/26_generic/26_generic_04/26_generic_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/26_generic/26_generic_05/26_generic_05.iml" filepath="$PROJECT_DIR$/26_generic/26_generic_05/26_generic_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/26_generic/26_generic_06/26_generic_06.iml" filepath="$PROJECT_DIR$/26_generic/26_generic_06/26_generic_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27_null/27_null.iml" filepath="$PROJECT_DIR$/27_null/27_null.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_reference/28_reference.iml" filepath="$PROJECT_DIR$/28_reference/28_reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29_collection/29_collection.iml" filepath="$PROJECT_DIR$/29_collection/29_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29_collection/29_collection_01/29_collection_01.iml" filepath="$PROJECT_DIR$/29_collection/29_collection_01/29_collection_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     static int prime_count = 0;
-    static int composite_count = 0;
+    static int composite_count;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
