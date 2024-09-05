@@ -65,6 +65,8 @@
       <module fileurl="file://$PROJECT_DIR$/28_reference/28_reference.iml" filepath="$PROJECT_DIR$/28_reference/28_reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/29_collection/29_collection.iml" filepath="$PROJECT_DIR$/29_collection/29_collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/29_collection/29_collection_01/29_collection_01.iml" filepath="$PROJECT_DIR$/29_collection/29_collection_01/29_collection_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29_collection/29_collection_02/29_collection_02.iml" filepath="$PROJECT_DIR$/29_collection/29_collection_02/29_collection_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29_collection/29_collection_03/29_collection_03.iml" filepath="$PROJECT_DIR$/29_collection/29_collection_03/29_collection_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
   </component>
