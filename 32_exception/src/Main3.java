@@ -9,8 +9,10 @@ public class Main3 {
             try {
                 printElement(strings, index);
             } catch (IllegalArgumentException e) {
-                System.out.println("錯誤訊息：" + e.getMessage());
-                System.out.println("造成錯誤原因：" + e.getCause().getMessage());
+                System.out.println("錯誤訊息：" +
+                        e.getMessage());
+                System.out.println("造成錯誤原因：" +
+                        e.getCause().getMessage());
                 e.printStackTrace();
             }
         }
