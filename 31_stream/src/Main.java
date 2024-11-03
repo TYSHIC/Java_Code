@@ -9,7 +9,9 @@ public class Main {
         System.out.println(arrayList.stream().reduce(String::concat).orElse(""));
         System.out.println(arrayList.stream()
                 .map((str) -> Character.toUpperCase(str.charAt(0)))
-                .collect(StringBuilder::new, StringBuilder::append, StringBuilder::append)
-                .toString());
+                .<StringBuilder>collect(StringBuilder::new,
+                        StringBuilder::append,
+                        StringBuilder::append)
+        );
     }
 }
