@@ -72,7 +72,9 @@
       <module fileurl="file://$PROJECT_DIR$/30_optional/30_optional.iml" filepath="$PROJECT_DIR$/30_optional/30_optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/31_stream/31_stream.iml" filepath="$PROJECT_DIR$/31_stream/31_stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/32_exception/32_exception.iml" filepath="$PROJECT_DIR$/32_exception/32_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_digits_count/90_digits_count.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_digits_count/90_digits_count.iml" />
       <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_dsa_basic.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_dsa_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_each_digit/90_each_digit.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_each_digit/90_each_digit.iml" />
       <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_min_max/90_min_max.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_min_max/90_min_max.iml" />
       <module fileurl="file://$PROJECT_DIR$/91_dsa_advanced/91_binary_search/91_binary_search.iml" filepath="$PROJECT_DIR$/91_dsa_advanced/91_binary_search/91_binary_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/91_dsa_advanced/91_dsa_advanced.iml" filepath="$PROJECT_DIR$/91_dsa_advanced/91_dsa_advanced.iml" />
