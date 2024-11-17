@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main1 {
+public class Main5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt(); // 獲取資料個數
