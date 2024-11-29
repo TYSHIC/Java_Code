@@ -73,6 +73,9 @@
       <module fileurl="file://$PROJECT_DIR$/31_stream/31_stream.iml" filepath="$PROJECT_DIR$/31_stream/31_stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/32_exception/32_exception.iml" filepath="$PROJECT_DIR$/32_exception/32_exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_dsa_basic.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_dsa_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_math/90_math.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_math/90_math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_search/90_search.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_search/90_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90_dsa_basic/90_sort/90_sort.iml" filepath="$PROJECT_DIR$/90_dsa_basic/90_sort/90_sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/91_dsa_advanced/91_dsa_advanced.iml" filepath="$PROJECT_DIR$/91_dsa_advanced/91_dsa_advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Code.iml" filepath="$PROJECT_DIR$/.idea/Java_Code.iml" />
     </modules>
