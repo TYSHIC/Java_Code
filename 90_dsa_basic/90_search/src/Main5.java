@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main4 {
+public class Main5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt(); // 獲取資料個數
@@ -20,6 +20,7 @@ public class Main4 {
             if (arr[mid] > target) r = mid - 1;
             else l = mid + 1;
         }
-        System.out.println("Target Not found.");
+        System.out.println("Target Insert Index: " + l);
+        // 資料應插入的索引值即為左邊界
     }
 }

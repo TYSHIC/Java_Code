@@ -7,9 +7,10 @@ public class Main2 {
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) arr[i] = scanner.nextInt(); // 讀入資料
         int target = scanner.nextInt(); // 讀入目標資料
+        // 循序搜尋法
         for (int i = 0; i < n; i++) {
             if (arr[i] == target) {
-                System.out.println(i + 1);
+                System.out.println(i);
                 return;
             }
         }

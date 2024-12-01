@@ -1,7 +1,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Main2 {
+public class Main5 {
     // 定義鏈結串列
     private static class IntNode {
         public final int value;
@@ -33,25 +33,24 @@ public class Main2 {
                 currentNode = newNode;
             }
         }
-        // 選擇排序
-        IntNode sortLastNode = null;
-        for (int i = 0; i < n - 1; i++) {
-            IntNode minNode = null;
-            currentNode = Objects.isNull(sortLastNode) ? firstNode : sortLastNode.next;
-            for (int j = i; j < n; j++) {
-                if (Objects.isNull(minNode) || currentNode.value < minNode.value)
-                    minNode = currentNode;
-                currentNode = currentNode.next;
+        // 插入排序
+        IntNode sortLastNode = firstNode;
+        for (int i = 1; i < n; i++) {
+            IntNode keyNode = sortLastNode.next;
+            currentNode = sortLastNode;
+            while (Objects.nonNull(currentNode) && keyNode.value < currentNode.value)
+                currentNode = currentNode.previous;
+            if (currentNode == sortLastNode) sortLastNode = sortLastNode.next;
+            else {
+                IntNode.linkTwoNodes(keyNode.previous, keyNode.next);
+                if (Objects.isNull(currentNode)) {
+                    IntNode.linkTwoNodes(keyNode, firstNode);
+                    firstNode = keyNode;
+                } else {
+                    IntNode.linkTwoNodes(keyNode, currentNode.next);
+                    IntNode.linkTwoNodes(currentNode, keyNode);
+                }
             }
-            IntNode.linkTwoNodes(minNode.previous, minNode.next);
-            if (Objects.isNull(sortLastNode)) {
-                IntNode.linkTwoNodes(minNode, firstNode);
-                firstNode = minNode;
-            } else {
-                IntNode.linkTwoNodes(minNode, sortLastNode.next);
-                IntNode.linkTwoNodes(sortLastNode, minNode);
-            }
-            sortLastNode = minNode;
         }
         // 輸出
         currentNode = firstNode;
