@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main1 {
     // 合併排序法
-    public static void mergeSort(int[] arr, int start, int end) {
+    private static void mergeSort(int[] arr, int start, int end) {
         if (start == end) return; // 治：若只有一個資料則為排序完成
         // 分：將資料拆分為兩組；治：分別排序兩組資料
         int mid = start - (start - end) / 2;

@@ -25,13 +25,9 @@ public class Main5 {
         IntNode firstNode = null, currentNode = null;
         for (int i = 0; i < n; i++) {
             IntNode newNode = new IntNode(scanner.nextInt());
-            if (Objects.isNull(firstNode)) {
-                currentNode = newNode;
-                firstNode = newNode;
-            } else {
-                IntNode.linkTwoNodes(currentNode, newNode);
-                currentNode = newNode;
-            }
+            if (Objects.isNull(firstNode)) firstNode = newNode;
+            else IntNode.linkTwoNodes(currentNode, newNode);
+            currentNode = newNode;
         }
         // 插入排序
         IntNode sortLastNode = firstNode;
@@ -54,7 +50,7 @@ public class Main5 {
         }
         // 輸出
         currentNode = firstNode;
-        while (Objects.nonNull(currentNode)) {
+        for (int i = 0; i < n; i++) {
             System.out.print(currentNode.value + " ");
             currentNode = currentNode.next;
         }
