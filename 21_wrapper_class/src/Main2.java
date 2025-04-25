@@ -1,6 +1,6 @@
 public class Main2 {
     public static void main(String[] args) {
-        final Integer TWO_HUNDRED = 100;
+        final Integer TWO_HUNDRED = 200;
         System.out.println(add(100, TWO_HUNDRED));
     }
 
