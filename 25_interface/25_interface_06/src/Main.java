@@ -42,7 +42,7 @@ abstract class ArrayHelper {
     }
 
     @FunctionalInterface
-    public interface StudentMapper {
+    public interface NumMapper {
         Object map(Num value);
     }
 
@@ -54,7 +54,7 @@ abstract class ArrayHelper {
     }
 
     public static void map(Num[] srcArray,
-                           StudentMapper mapFunction, Object[] dstArray) {
+                           NumMapper mapFunction, Object[] dstArray) {
         for (int i = 0; i < Math.max(srcArray.length, dstArray.length); i++) {
             dstArray[i] = mapFunction.map(srcArray[i]);
         }
